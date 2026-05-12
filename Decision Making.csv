@@ -1,0 +1,35 @@
+,Cat,Dog,,,,,,,,,
+Initial ,,,,,,,,,,,
+Purchase, $90.00 , $50.00 ,,,,,,,,,
+Collar, $2.00 , $2.50 ,,,,,,,,,
+ID tag, $4.50 , $5.50 ,,,,,,,,,
+ Bowl, $7.00 , $7.00 ,,,,,,,,,
+Leash, $-   , $3.00 ,,,,,,,,,
+Total, $103.50 , $68.00 ,,,,,,,,,
+,,,,,,,,,,,
+Monthly,,,,,,,,,,,
+Food, $11.00 , $21.00 ,,,,,,,,,
+Litter, $8.00 , $-   ,,,,,,,,,
+Treats, $-   , $3.00 ,,,,,,,,,
+Subtotal, $19.00 , $24.00 ,,,,,,,,,
+Total, $38.00 , $48.00 ,,,,,,,,,
+,,,,,,,,,,,
+,Cat,Dog,,,,,,,,,
+First Year's , $559.50 , $644.00 ,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Decision Matrix,,,,,Weighted Decision Analysis,,,,,
+,Citeria,Cat,Dog,,,Citeria,Weight,Cat,Cat Weighted,Dog,Dog Weighted 
+,Initial Cost,5,8,,,Initial Cost,20%,5,1,8,1.6
+,Monthly Cost,8,6,,,Monthly Cost,25%,8,2,6,1.5
+,First-Year Cost,9,5,,,First-Year Cost,30%,9,2.7,5,1.5
+,Maintenance,8,6,,,Maintenance,15%,8,1.2,6,0.9
+,Flexibility,6,8,,,Flexibility,10%,6,0.6,8,0.8
+,Total,36,33,,,Total,,,7.5,,6.3
+,,,,,,,,,Cat Weighted,Dog Weighted,
+,,Cat,Dog,,,,,,7.5,6.3,
+,,36,33,,,,,,,,
