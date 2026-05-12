@@ -1,2 +1,2 @@
 # Excel Based Decision Support System
-This project is about making decison
+Built an Excel-based decision support system using comparative analysis, weighted scoring models, and data visualization techniques to evaluate financial and lifestyle decisions. Developed structured decision matrices and analytical reports to support data-driven recommendations.
